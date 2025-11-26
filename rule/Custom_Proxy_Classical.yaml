@@ -4,7 +4,8 @@
 # TOTAL: 17
 
 payload:
-  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steamcommunity.com  
+  - DOMAIN-SUFFIX,onedrive.live.com
   - DOMAIN-SUFFIX,7pzzv.us
   - DOMAIN-SUFFIX,arduino.cc
   - DOMAIN-SUFFIX,clientservices.googleapis.com
