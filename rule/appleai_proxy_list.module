@@ -1,5 +1,4 @@
 [Rule]
-DOMAIN-SUFFIX,paypal-engineering.com,PROXY
 DOMAIN-SUFFIX,cp4.cloudflare.com,PROXY
 DOMAIN-SUFFIX,account.apple.com,PROXY
 DOMAIN-SUFFIX,guzzoni.apple.com,PROXY
