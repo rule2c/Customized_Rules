@@ -1,6 +1,6 @@
 [Rule]
 DOMAIN-SUFFIX,cp4.cloudflare.com,PROXY
-DOMAIN-SUFFIX,account.apple.com,PROXY
+#DOMAIN-SUFFIX,account.apple.com,PROXY
 DOMAIN-SUFFIX,guzzoni.apple.com,PROXY
 DOMAIN-SUFFIX,smoot.apple.com,PROXY
 DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,PROXY
