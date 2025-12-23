@@ -4,7 +4,12 @@
 # TOTAL: 17
 
 payload:
-  - DOMAIN-SUFFIX,steamcommunity.com  
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,store.fastly.steamstatic.com
+  - DOMAIN-SUFFIX,t-ring-fdv2.msedge.net
+  - DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
+  - DOMAIN-SUFFIX,androidplatformbackuprestore-pa.googleapis.com
   - DOMAIN-SUFFIX,onedrive.live.com
   - DOMAIN-SUFFIX,7pzzv.us
   - DOMAIN-SUFFIX,arduino.cc
