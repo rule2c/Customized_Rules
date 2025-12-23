@@ -7,6 +7,10 @@ payload:
   - DOMAIN-KEYWORD,m-team
   - DOMAIN-KEYWORD,quickconnect
   - DOMAIN-KEYWORD,synology
+  - DOMAIN-SUFFIX,zzclass.com
+  - DOMAIN-SUFFIX,tvkoudai.com
+  - DOMAIN-SUFFIX,yimilan.com
+  - DOMAIN-SUFFIX,nike.com
   - DOMAIN-SUFFIX,03241119.xyz
   - DOMAIN-SUFFIX,112114.xyz
   - DOMAIN-SUFFIX,115cdn.de
