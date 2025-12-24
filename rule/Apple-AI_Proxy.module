@@ -1,11 +1,11 @@
 [Rule]
 DOMAIN-SUFFIX,cp4.cloudflare.com,PROXY
-#DOMAIN-SUFFIX,account.apple.com,PROXY
 DOMAIN-SUFFIX,guzzoni.apple.com,PROXY
 DOMAIN-SUFFIX,smoot.apple.com,PROXY
 DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,PROXY
 DOMAIN-SUFFIX,apple-relay.apple.com,PROXY
 DOMAIN-SUFFIX,apple-relay.cloudflare.com,PROXY
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com,PROXY
+#DOMAIN-SUFFIX,account.apple.com,PROXY
 #DOMAIN-SUFFIX,apple-relay.akamzized.net,PROXY
 #DOMAIN-SUFFIX,apple-relay.mask.apple-dns.com,PROXY
