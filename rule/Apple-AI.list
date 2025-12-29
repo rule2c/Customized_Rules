@@ -10,5 +10,5 @@ DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 #DOMAIN-SUFFIX,apple-relay.akamzized.net
 #DOMAIN-SUFFIX,apple-relay.mask.apple-dns.com
 
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.com
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
