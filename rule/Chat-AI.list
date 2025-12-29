@@ -11,9 +11,9 @@ DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 #DOMAIN-SUFFIX,apple-relay.mask.apple-dns.com
 
 # Claude / Bing
+DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
-DOMAIN-KEYWORD,bing
 DOMAIN-KEYWORD,openai
