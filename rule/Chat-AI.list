@@ -1,4 +1,4 @@
-# Apple Intelligence / Siri / Relay 建议走美国节点规则
+# Apple Intelligence
 DOMAIN-SUFFIX,cp4.cloudflare.com
 DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
@@ -10,5 +10,10 @@ DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 #DOMAIN-SUFFIX,apple-relay.akamzized.net
 #DOMAIN-SUFFIX,apple-relay.mask.apple-dns.com
 
+# Claude / Bing
+DOMAIN-SUFFIX,copilot.cloud.microsoft
+DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,bing
+DOMAIN-KEYWORD,openai
