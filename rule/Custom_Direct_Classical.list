@@ -200,7 +200,7 @@ DOMAIN-SUFFIX,micu.hk
 DOMAIN-SUFFIX,mifeng.plus
 DOMAIN-SUFFIX,mobai.sbs
 DOMAIN-SUFFIX,modelscope.net
-DOMAIN-SUFFIX,msftconnecttest.com
+#DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,mslmc.net
 DOMAIN-SUFFIX,mtaokj.com
