@@ -2,6 +2,9 @@ DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,quickconnect
 DOMAIN-KEYWORD,synology
 DOMAIN-KEYWORD,banxiaoer
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,ts.net
+DOMAIN-SUFFIX,tailscale.io
 DOMAIN-SUFFIX,zzclass.com
 DOMAIN-SUFFIX,tvkoudai.com
 DOMAIN-SUFFIX,yimilan.com
@@ -318,6 +321,7 @@ DOMAIN-SUFFIX,zjxhedu.com
 DOMAIN-SUFFIX,znnu.com
 DOMAIN-SUFFIX,znztv.com
 DOMAIN-SUFFIX,zuobiao.press
+IP-CIDR,100.64.0.0/10,no-resolve
 IP-CIDR,108.174.48.100/32,no-resolve
 IP-CIDR,218.78.7.16/32,no-resolve
 IP-CIDR,5.5.5.5/32,no-resolve
