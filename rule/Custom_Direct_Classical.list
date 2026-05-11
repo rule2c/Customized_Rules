@@ -4,6 +4,7 @@ DOMAIN-KEYWORD,synology
 DOMAIN-KEYWORD,banxiaoer
 PROCESS-NAME,tailscale.exe
 PROCESS-NAME,tailscaled.exe
+PROCESS-NAME,tailscale-ipn.exe
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,ts.net
 DOMAIN-SUFFIX,tailscale.io
