@@ -10,6 +10,11 @@ DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 #DOMAIN-SUFFIX,apple-relay.akamzized.net
 #DOMAIN-SUFFIX,apple-relay.mask.apple-dns.com
 
-# Claude / Bing
+# Claude
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
+
+# Bing
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
+DOMAIN-SUFFIX,copilot.microsoft.com
