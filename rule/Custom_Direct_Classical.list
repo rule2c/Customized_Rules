@@ -2,6 +2,8 @@ DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,quickconnect
 DOMAIN-KEYWORD,synology
 DOMAIN-KEYWORD,banxiaoer
+PROCESS-NAME,tailscale.exe
+PROCESS-NAME,tailscaled.exe
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,ts.net
 DOMAIN-SUFFIX,tailscale.io
