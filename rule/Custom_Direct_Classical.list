@@ -2,13 +2,14 @@ DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,quickconnect
 DOMAIN-KEYWORD,synology
 DOMAIN-KEYWORD,banxiaoer
+DOMAIN-KEYWORD,zzclass.com
 PROCESS-NAME,tailscale.exe
 PROCESS-NAME,tailscaled.exe
 PROCESS-NAME,tailscale-ipn.exe
-DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,ts.net
 DOMAIN-SUFFIX,tailscale.io
-DOMAIN-SUFFIX,zzclass.com
+DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tvkoudai.com
 DOMAIN-SUFFIX,yimilan.com
 DOMAIN-SUFFIX,nike.com
