@@ -3,9 +3,9 @@ DOMAIN-KEYWORD,quickconnect
 DOMAIN-KEYWORD,synology
 DOMAIN-KEYWORD,banxiaoer
 DOMAIN-KEYWORD,zzclass.com
-PROCESS-NAME,tailscale.exe
-PROCESS-NAME,tailscaled.exe
-PROCESS-NAME,tailscale-ipn.exe
+#PROCESS-NAME,tailscale.exe
+#PROCESS-NAME,tailscaled.exe
+#PROCESS-NAME,tailscale-ipn.exe
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,ts.net
 DOMAIN-SUFFIX,tailscale.io
