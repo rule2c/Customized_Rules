@@ -12,3 +12,6 @@ DOMAIN-SUFFIX, smoot.apple.com
 DOMAIN-SUFFIX, apple-relay.akamaized.net
 DOMAIN-SUFFIX, apple-relay.mask.apple-dns.net
 DOMAIN-SUFFIX, api-siri-prod.apple.com
+DST-PORT,3478
+DST-PORT,5349
+DST-PORT,19302
