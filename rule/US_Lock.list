@@ -1,0 +1,30 @@
+# 美区锁定：需要固定美国出口的服务
+# Update 2026-10-31
+# 用法：mihomo / Shadowrocket / subconverter 都按 classical 列表引用，策略指向 📍 美区锁定
+# PayPal 不放这里：mihomo 用 GEOSITE,paypal，Shadowrocket 用 blackmatrix7 的 PayPal 列表，由上游维护
+
+# Apple Intelligence / Siri / iCloud 私密中继
+DOMAIN-SUFFIX,gateway.icloud.com
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,cp4.cloudflare.com
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,apple-relay.akamaized.net
+DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
+DOMAIN-SUFFIX,api-siri-prod.apple.com
+# STUN 端口：打开后所有 WebRTC / 视频通话的 STUN 都会走美区，按需取消注释
+#DST-PORT,3478
+#DST-PORT,5349
+#DST-PORT,19302
+
+# 美国号码：T-Mobile / Sprint、WiFi 通话、Google Voice
+DOMAIN-SUFFIX,3gppnetwork.org
+DOMAIN-SUFFIX,t-mobile.com
+DOMAIN-SUFFIX,tmobile.com
+DOMAIN-SUFFIX,t-mobilemoney.com
+DOMAIN-SUFFIX,t-mo.co
+DOMAIN-SUFFIX,sprint.com
+DOMAIN-SUFFIX,voice.google.com
