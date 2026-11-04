@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "gstatic.com",
+        "steampowered.com",
+        "steamcommunity.com",
+        "store.fastly.steamstatic.com",
+        "t-ring-fdv2.msedge.net",
+        "firebaseinstallations.googleapis.com",
+        "androidplatformbackuprestore-pa.googleapis.com",
+        "onedrive.live.com",
+        "7pzzv.us",
+        "arduino.cc",
+        "clientservices.googleapis.com",
+        "cloudsync-prod.s3.us-east-1.amazonaws.com",
+        "dmhy.org",
+        "googleapis.cn",
+        "hoyolab.com",
+        "ip.sb",
+        "ipify.org",
+        "mtalk.google.com",
+        "platformio.org",
+        "services.googleapis.cn",
+        "stun.playstation.net",
+        "xn--ngstr-lra8j.com",
+        "msftconnecttest.com"
+      ],
+      "ip_cidr": [
+        "1.0.0.1/32",
+        "1.1.1.1/32"
+      ]
+    }
+  ]
+}
